@@ -110,7 +110,6 @@ In order to run this project you need:
 - [x] Basic knowledge of **Git**, **GitHub** &**Gitflow**.
 - [x] Basic knowledge of **Linters**.
 - [x] Basic knowledge of **Webpack**.
-- [x] Basic knowledge of **Jest** unit-testing library.
 - [x] Basic knowledge of **VS Code** or any other code-editors.
 
 ### Setup
