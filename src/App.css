@@ -3,7 +3,6 @@
   margin: 0;
   box-sizing: border-box;
   -webkit-user-drag: none;
-  -webkit-app-region: none;
 }
 
 body {
@@ -21,7 +20,7 @@ body {
   background-color: aqua;
   border-radius: 16px;
   padding: 16px;
-  box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+  box-shadow: 7px 7px 5px 1px rgba(50, 50, 50, 0.75);
 }
 
 .main {
