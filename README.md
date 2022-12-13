@@ -176,7 +176,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Implement additional home pages, one page per category of movies**
+- [ ] **Implement additional pages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
