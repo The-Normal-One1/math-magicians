@@ -167,7 +167,7 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Nabeel Akbar**
+👤 **Ermiyas Demsew**
 
 - GitHub: [@The-Normal-One1](https://github.com/The-Normal-One1)
 - Twitter: [@DemsewErmiyas](https://twitter.com/DemsewErmiyas)
