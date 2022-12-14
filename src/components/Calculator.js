@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import calculate from '../logic/calculate';
 
 // eslint-disable-next-line react/prefer-stateless-function
+/* eslint-disable react/destructuring-assignment */
+
 class Calculator extends Component {
   constructor(props) {
     super(props);
@@ -20,10 +22,11 @@ class Calculator extends Component {
   render() {
     return (
       <div className="main">
-        <form>
+        <form className="screen">
           <input
             disabled
-            className="screen"
+            className="input"
+            maxLength={12}
             value={this.state.next || this.state.total || 0}
           />
         </form>
@@ -89,7 +92,7 @@ class Calculator extends Component {
           onClick={this.handleChange}
           id="X"
         >
-          X
+          x
         </button>
         <button
           className="btn"
