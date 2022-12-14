@@ -40,6 +40,7 @@ body {
   background-color: rgb(133, 132, 132);
   color: white;
 }
+
 .input {
   grid-column: 1/ -1;
   text-align: right;
