@@ -16,10 +16,10 @@ function Calculator() {
 
   const results = `
   ${
-    data.total || data.operation || data.next
-      ? `${data.total || ''} ${data.operation || ''} ${data.next || ''}`
-      : 0
-  }`;
+  data.total || data.operation || data.next
+    ? `${data.total || ''} ${data.operation || ''} ${data.next || ''}`
+    : 0
+}`;
 
   return (
     <div className="main">
